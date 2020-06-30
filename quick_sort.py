@@ -1,6 +1,6 @@
 """Implement quick sort in Python.
 Input a list.
-Output a sorted list."""
+Output a sorted list"""
 def quicksort(array):
     if len(array)<=1:
         return array
